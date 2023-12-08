@@ -1,0 +1,8 @@
+2023-12-07 17:48:39.554  INFO A13860.local --- [           main] i.c.c.L.LoggingApplication               : Logs genearted from logging framework..
+2023-12-07 17:48:40.028  INFO A13860.local --- [           main] i.c.c.L.LoggingApplication               : Starting LoggingApplication using Java 1.8.0_341 on A13860.local with PID 93205 (/Users/gauravdaksh/Downloads/Logging/target/classes started by gauravdaksh in /Users/gauravdaksh/Downloads/Logging)
+2023-12-07 17:48:40.032 DEBUG A13860.local --- [           main] i.c.c.L.LoggingApplication               : Running with Spring Boot v2.5.6, Spring v5.3.12
+2023-12-07 17:48:40.033  INFO A13860.local --- [           main] i.c.c.L.LoggingApplication               : No active profile set, falling back to default profiles: default
+2023-12-07 17:48:40.814  INFO A13860.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2023-12-07 17:48:40.891  INFO A13860.local --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 804 ms
+2023-12-07 17:48:41.264  INFO A13860.local --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-07 17:48:41.277  INFO A13860.local --- [           main] i.c.c.L.LoggingApplication               : Started LoggingApplication in 1.662 seconds (JVM running for 2.574)
